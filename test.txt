@@ -7,3 +7,4 @@ abcd
 
 
 core 1
+test
