@@ -3,3 +3,4 @@ test 1 f1 đã reset mixed
 test 1 f1
 
 ddax reset
+test 1 f1
